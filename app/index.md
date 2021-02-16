@@ -29,3 +29,11 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 [Chocolate Soup](recipe/jan/chocolate-soup.md)
 
 [Roast Pork and Pickled Cucumber Sandwich](recipe/feb/Roast-Pork-and-Pickled-Cucumber-Sandwich.md)
+
+## Last months favorites
+
+[Roast Pork and Pickled Cucumber Sandwich](recipe/feb/Roast-Pork-and-Pickled-Cucumber-Sandwich.md)
+
+[Asparagus With Cranberries And Pine Nuts](recipe/feb/asparagus-with-cranberries-and-pine-nuts.md)
+
+[Quick oatmeal pancakes](recipe/feb/Quick-oatmeal-pancakes.md)
