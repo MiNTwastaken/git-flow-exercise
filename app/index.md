@@ -18,12 +18,6 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 [Asparagus With Cranberries And Pine Nuts](recipe/feb/asparagus-with-cranberries-and-pine-nuts.md)
 
-### [John Lemon](writer/john-lemon.md) | zestmaster@flavor.magazine
-
-[Homemade Sausages](recipe/jan/homemade-sausages.md)
-
-[Candiet Carrots](recipe/feb/candiet-carrots.md)
-
 ### [Madame Croque](writer/madame-croque.md) | mmecroque@flavor.magazine
 
 [Chocolate Soup](recipe/jan/chocolate-soup.md)
